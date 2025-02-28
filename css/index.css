@@ -61,7 +61,7 @@ main {
     padding-top: 85px;
 }
 
-/*CSS explorar*/
+/*CSS index*/
 
 #conteudo-fotografia {
     padding: 5px;
@@ -79,15 +79,6 @@ main {
 .texto-fotografia {
     padding: 15px;
     text-align: left;
-}
-
-.post-card {
-    background-color: white;
-    border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    overflow: hidden;
-    width: 100%;
-    max-width: 300px;
 }
 
 .fotografia img {
@@ -109,37 +100,6 @@ h2 {
 p {
     font-size: 1rem;
     color: #777;
-}
-
-.rodape-fotografia a {
-    text-align: right;
-    font-size: smaller;
-    font-weight: bolder;
-    text-decoration: none;
-    display: flex;
-}
-
-.rodape-fotografia h5 {
-    text-align: left;
-}
-
-.leia-mais a {
-    text-decoration: none; 
-    padding: 5px 10px; 
-    font-weight: bold; 
-    background-color: #ffffff; 
-    border-radius: 5px; 
-    color: #717788;
-}
-
-.leia-mais a:hover {
-    background-color: #F5F5F1; 
-    border-radius: 5px; 
-}
-
-.linha {
-    width: 400px;
-    height: min-content;
 }
 
 #ultimas-postagens {
@@ -233,10 +193,6 @@ p {
 
 .interacoes img {
     cursor: pointer;         
-}
-
-.icons img:hover {
-    transform: scale(2.0);
 }
 
 .foto-dois-interacoes {
